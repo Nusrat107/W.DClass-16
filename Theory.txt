@@ -1,0 +1,22 @@
+
+
+
+
+
+=======Grid System=========
+
+
+Bootstrap color:
+Green (Success)
+yellow (warning)
+red (danger)
+black type (dark)
+white (light)
+Akasi type (info)
+blue (primary)
+S type (Secoundary)
+
+
+Device name:
+
+sm, md , lg , xl .
